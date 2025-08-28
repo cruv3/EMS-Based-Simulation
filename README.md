@@ -4,7 +4,6 @@ This repository contains all materials related to the project **EMS-Based Simula
 
 - 📂 **Source Code** – implementation of the wearable prototype, EMS control, and sensor integration  
 - 📄 **Questionnaires** – study material such as the Comfort Rating Scale (CRS) and EMS-CORE questionnaire  
-- 📝 **Documentation & Reports** – project report, research paper, and supporting documents  
 - ⚙️ **3D Models & Hardware Files** – 3D-printed sleeve, electrode mounts, and case designs  
 
 ## Overview
