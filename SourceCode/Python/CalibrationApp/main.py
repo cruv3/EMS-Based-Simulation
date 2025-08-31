@@ -1,7 +1,7 @@
 import asyncio
 
 from CalibrationApp.calibration import calibrate
-from bluetooth import BluetoothHandler
+from SharedFiles.bluetooth import BluetoothHandler
 
 # Replace with Toolkit address
 DEVICE_ADDRESS = "DFA6C7B9-4E47-88B8-0E82-3A420A1C3FDD"

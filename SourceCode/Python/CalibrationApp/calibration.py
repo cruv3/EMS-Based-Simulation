@@ -2,7 +2,7 @@ import threading
 
 import asyncio
 
-from bluetooth import BluetoothHandler
+from SharedFiles.bluetooth import BluetoothHandler
 
 def start_background_loop():
     loop = asyncio.new_event_loop()

@@ -4,7 +4,7 @@ import time
 import asyncio
 from time import sleep
 
-from bluetooth import BluetoothHandler, scan_devices
+from SharedFiles.bluetooth import BluetoothHandler, scan_devices
 import threading
 
 class App:
