@@ -9,7 +9,7 @@ This repository contains all materials related to the project **EMS-Based Simula
 ## Overview
 
 The project explores how **Electrical Muscle Stimulation (EMS)** can be used in a wearable form factor to generate subtle, natural, and comfortable touch sensations.  
-A prototype was developed combining a **3D-printed sleeve**, **EMS electrodes**, a **Trill touch sensor**, and microcontroller-based signal processing.  
+A prototype was developed combining a **3D-printed sleeve**, **EMS electrodes**, a **Trill Flex sensor**, and microcontroller-based signal processing.  
 
 The repository serves as a central collection for **development**, **experiments**, and **evaluation materials**.
 
